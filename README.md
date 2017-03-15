@@ -5,7 +5,7 @@ Part of speech (POS) tagging using Viterbi Algorithm
 - Implemented bigram Viterbi Algorithm using a training file consisting of several transition and emission probabilities 
 
 To compile and run 
-python my_viterbi.py probs.txt sents.txt
+- python my_viterbi.py probs.txt sents.txt
 
 Dataset Description 
 - Currently a simple training file of few transition and emission probabilities is used
